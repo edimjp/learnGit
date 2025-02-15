@@ -1,1 +1,3 @@
-I wanna create new file and use fetch and merge origin to make it available in my local computer
+I wanna create new file and use fetch and merge origin to make it available in my local computer.
+
+This line of text is for the sixth commit.
